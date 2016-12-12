@@ -8,7 +8,8 @@ namespace PerformanceTest
 {
     public class RequestsBenchmark
     {
-        private readonly string Url = "http://ya.ru";
+        private readonly string Url = "http://web20161208102028.azurewebsites.net/Delay/Result?max=5000";
+        //private readonly string Url = "http://ya.ru";
         //private readonly string Url = "http://www.msn.com/";
         //private readonly string Url = "https://www.amazon.com/";
         //private readonly string Url = "https://azure.microsoft.com/en-gb/";
